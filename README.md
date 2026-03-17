@@ -1,6 +1,6 @@
 # Hi, I'm Ben!
 
-I'm a cybersecurity-focused developer interested in both offensive (red team) and defensive (blue team) security. I enjoy building tools, analyzing systems, and learning about areas like home servers, automation, networking, and system security. I'm focused on understanding real-world attack techniques, vulnerability analysis, and how to better detect, prevent, and respond to threats. 
+I'm a cybersecurity-focused developer interested in both offensive (red team) and defensive (blue team) security. I enjoy building tools, analyzing systems, and learning about areas like home labs, automation, networking, and system security. I'm focused on understanding real-world attack techniques, vulnerability analysis, and how to better detect, prevent, and respond to threats. 
 
 ‎ 
 
