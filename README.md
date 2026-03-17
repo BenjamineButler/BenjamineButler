@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ben!
 
-<!--
-**BenjamineButler/BenjamineButler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity-focused developer interested in both offensive (red team) and defensive (blue team) security. I enjoy building tools, analyzing systems, and learning about areas like home servers, automation, networking, and system security. I'm focused on understanding real-world attack techniques, vulnerability analysis, and how to better detect, prevent, and respond to threats. 
 
-Here are some ideas to get you started:
+## 👨‍💻 Recent Cybersecurity Project: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Scout Recon Tool](https://github.com/BenjamineButler/scout-recon)
+  - Username enumeration tool built with Python for finding accounts across platforms
+
+## 🧰 Languages & Tools: 
+
+<p> 
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,python,kali,bash,go,c,cpp,vscode,html,css,js,docker,cs" /> 
+</p> 
+
+## 📜 Contacts: 
+
+<p>
+  <a href="mailto:butlerbenhost@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/ben-butler-1b18233b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ben%20Butler-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
