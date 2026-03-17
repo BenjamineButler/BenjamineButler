@@ -4,7 +4,7 @@ I'm a cybersecurity-focused developer interested in both offensive (red team) an
 
 ‎ 
 
-## 👨‍💻 Recent Cybersecurity Project: 
+## 👨‍💻 Cybersecurity Projects: 
 
 - [Scout Recon Tool](https://github.com/BenjamineButler/scout-recon)
   - Username enumeration tool built with Python for finding accounts across platforms
