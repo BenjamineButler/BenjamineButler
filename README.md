@@ -11,10 +11,10 @@ I'm a cybersecurity-focused developer interested in both offensive (red team) an
 
 ‎ 
 
-## Languages & Tools: 
+## Languages & Skills: 
 
 <p> 
-  <img src="https://skillicons.dev/icons?i=linux,windows,python,kali,vscode,html,css,js,java,cs" /> 
+  <img src="https://skillicons.dev/icons?i=linux,kali,linux,windows,vscode,python,html,css,js,java" /> 
 </p> 
 
 ‎ 
@@ -29,8 +29,7 @@ I'm a cybersecurity-focused developer interested in both offensive (red team) an
     <img src="https://img.shields.io/badge/LinkedIn-Ben%20Butler-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-‎ 
-butlerbenhost@gmail.com
+‎
 
 
 
