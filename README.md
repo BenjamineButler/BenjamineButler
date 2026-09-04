@@ -14,7 +14,7 @@ I'm a cybersecurity-focused developer interested in both offensive (red team) an
 ## Languages & Tools: 
 
 <p> 
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,python,kali,bash,go,c,cpp,vscode,html,css,js,docker,cs" /> 
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,kali,vscode,html,css,js,java,cs" /> 
 </p> 
 
 ‎ 
