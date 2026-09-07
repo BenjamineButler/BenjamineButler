@@ -6,8 +6,8 @@ I'm a cybersecurity-focused developer interested in both offensive and defensive
 
 ## Recent Projects: 
 
-- [Scout Recon Tool](https://github.com/BenjamineButler/scout-recon)
-  - Username enumeration tool built with Python for finding accounts across platforms
+- [Covon OS](https://github.com/BenjamineButler/Covon-OS)
+  - Custom operating system from scratch with its own kernel, system architecture, drivers, and graphical user interface.
 
 ‎ 
 
