@@ -4,12 +4,12 @@ I'm a cybersecurity-focused developer interested in both offensive and defensive
 
 ‎ 
 
-## Recent Project:
+## Current Project:
 
-- [Covon OS](https://github.com/BenjamineButler/Covon-OS)
-  - Custom operating system from scratch with its own kernel, system architecture, drivers, and graphical user interface.
+- [Volt](https://github.com/BenjamineButler/Volt)
+  - Custom programming language with its own syntax, compiler, runtime, standard library, and development tools.
 
-## Languages & Skills: 
+## Skills & Languages: 
 
 <p> 
   <img src="https://skillicons.dev/icons?i=kali,linux,windows,python,html,css,js,bash,cloudflare" /> 
