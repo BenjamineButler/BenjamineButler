@@ -7,7 +7,7 @@ I'm a cybersecurity-focused developer interested in both offensive and defensive
 ## Current Project:
 
 - [Volt](https://github.com/BenjamineButler/Volt)
-  - Custom programming language with its own syntax, compiler, runtime, standard library, and development tools.
+  -Custom programming language with its own syntax, compiler, runtime, standard library, and development tools.
 
 ## Skills & Languages: 
 
