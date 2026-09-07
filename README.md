@@ -1,6 +1,6 @@
 # Hi, I'm Ben!
 
-I'm a cybersecurity-focused developer interested in both offensive (red team) and defensive (blue team) security. I enjoy building tools, analyzing systems, and learning about areas like home labs, automation, networking, and system security. I'm focused on understanding real-world attack techniques, vulnerability analysis, and how to better detect, prevent, and respond to threats. 
+I'm a cybersecurity-focused developer interested in both offensive and defensive security. I enjoy building tools, analyzing systems, and learning more about home labs, automation, networking, and system security. I'm focused on new real-world attack techniques, vulnerability analysis, and how to better detect, prevent, and respond to threats. 
 
 ‎ 
 
@@ -14,7 +14,7 @@ I'm a cybersecurity-focused developer interested in both offensive (red team) an
 ## Languages & Skills: 
 
 <p> 
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows,python,html,css,js,java" /> 
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows,python,html,css,js,bash,cloudflare" /> 
 </p> 
 
 ‎ 
@@ -23,7 +23,7 @@ I'm a cybersecurity-focused developer interested in both offensive (red team) an
 
 <p>
   <a href="mailto:butlerbenhost@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/ben-butler-1b18233b4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ben%20Butler-blue?style=for-the-badge&logo=linkedin" />
