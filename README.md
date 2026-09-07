@@ -16,20 +16,3 @@ I'm a cybersecurity-focused developer interested in both offensive and defensive
 <p> 
   <img src="https://skillicons.dev/icons?i=kali,linux,windows,python,html,css,js,bash,cloudflare" /> 
 </p> 
-
-‎ 
-
-## Contacts: 
-
-<p>
-  <a href="mailto:butlerbenhost@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/ben-butler-1b18233b4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ben%20Butler-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-‎
-
-
-
