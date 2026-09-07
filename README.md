@@ -4,16 +4,10 @@ I'm a cybersecurity-focused developer interested in both offensive and defensive
 
 ‎ 
 
-## Various Projects:
+## Recent Project:
 
-- [Volt](https://github.com/BenjamineButler/Volt)  
-  Custom programming language with its own syntax, compiler, runtime, standard library, and development tools.
-
-- [Covon OS](https://github.com/BenjamineButler/Covon-OS)  
-  Custom operating system built from scratch with its own kernel, system architecture, drivers, and graphical user interface.
-
-- [Warden EDR](https://github.com/BenjamineButler/Warden-EDR)  
-  Endpoint detection and response platform with its own architecture, security engine, graphical interface, and optional AI-assisted analysis.
+- [Covon OS](https://github.com/BenjamineButler/Covon-OS)
+  - Custom operating system from scratch with its own kernel, system architecture, drivers, and graphical user interface.
 
 ## Languages & Skills: 
 
